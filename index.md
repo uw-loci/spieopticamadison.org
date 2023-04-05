@@ -1,5 +1,4 @@
 ---
-layout: default
 ---
 
 <div style="display:none"><h1> 2022 Conference</h1></div>
