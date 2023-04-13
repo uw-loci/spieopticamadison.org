@@ -1,7 +1,11 @@
 ---
 ---
+<div style="display:none"><h1> About</h1></div>
 
-## About
+![I2K Banner Image](/assets/images/banner-image.png)
+
+<br>
+
 
 Our goal is to help connect students all over campus with the resources they need for future development through seminars, industry outings and informal gatherings. Students from every discipline are encouraged and welcome to help shape this newly reformed organization! You need not even be a member of SPIE.
 
