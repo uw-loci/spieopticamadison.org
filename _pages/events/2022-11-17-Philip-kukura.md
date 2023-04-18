@@ -1,6 +1,9 @@
 ---
 title: External Speaker - Philip Kukura
 day: November 17, 2022
+time: 3 PM
+image: /assets/images/events/philipp-kukura.png
+image-description: picture of rita strack
 ---
 Philip Kukura
 University of Oxford Department of Chemistry

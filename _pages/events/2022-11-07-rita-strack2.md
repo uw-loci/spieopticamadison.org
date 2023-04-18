@@ -1,6 +1,9 @@
 ---
 title: BME Talk Series Featuring Rita Strack
-day: November 7, 2022 at 12PM
+day: November 7, 2022
+time: 12 PM
+image: /assets/images/events/rita-strack.png
+image-description: picture of rita strack
 ---
 Rita’s talk will begin by introducing Nature Methods and their editorial criteria. She will then offer tips for publishing high-quality papers, with an emphasis on microscopy and image analysis. Next, she will switch gears to discuss her views of the future of bioimaging and bioimage analysis. Finally, she will conclude with a short discussion on current trends in promoting reproducibility and reporting in microscopy.
 

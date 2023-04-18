@@ -57,6 +57,9 @@ h5 {
   line-height:1.1;
   margin-left: 10px;
 }
+h6 {
+  font-size: 14;
+}
 a {
   color:#4276b6;
   font-weight:400;
@@ -71,7 +74,7 @@ a small {
 }
 
 ul{
-  list-style-image:url('../images/bullet.png');
+  list-style-image:none;
 }
 
 strong {

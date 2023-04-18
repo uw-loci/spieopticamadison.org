@@ -16,13 +16,21 @@ sorted correctly, and to generate the year headers consistently.
   | slice: 0, 3
   | reverse -%}
 
-<ul>
-{% assign headers = "" | split: ',' %}
-{%- for eventsPg in eventsPages -%}
-  <li>{{eventsPg.day}}<br><a href="{{eventsPg.url}}">{{eventsPg.title}}</a></li>
-{%- endfor -%}
-</ul>
+<short-list>
+  {%- for eventsPg in eventsPages -%}
+      <table>
+        <tr>
+          <th>
+          <img src="{{eventsPg.image}}" alt="{{eventsPg.image-description}}">
+          </th>
 
+          <th>
+          <a href="{{eventsPg.url}}">{{eventsPg.title}}</a><br><h6>{{eventsPg.day}} at {{eventsPg.time}}</h6>
+          </th>
+        </tr>
+      </table>
+  {%- endfor -%}
+</short-list>
 {%- comment -%}
 # vi:syntax=liquid
 {%- endcomment -%}
