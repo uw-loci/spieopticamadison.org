@@ -15,7 +15,7 @@ Please forward any questions, comments, suggestions to  [spie.optica.uw@gmail.co
 
 <hr>
 ## Upcoming Events
-
+ {% include events/short-list %}
 
 <hr>
 ## Organizers

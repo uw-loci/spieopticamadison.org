@@ -1,0 +1,28 @@
+{% comment %}
+Looks through all pages in pages/events/ and sorts them by year.
+Then selects 3 most recent events and lists nearest first.
+
+Outputs a list of links to the events pages, organized under year headers.
+
+NB: relies on events pages to be named in the format "YYYY-MM-DD-*" to be
+sorted correctly, and to generate the year headers consistently.
+{% endcomment %}
+
+{%- assign eventsPages = site.pages
+  | sort:"date"
+  | reverse
+  | where_exp:"p", "p.url contains '/events/'"
+  | where_exp:"p", "p.url != '/events/index'"
+  | slice: 0, 3
+  | reverse -%}
+
+<ul>
+{% assign headers = "" | split: ',' %}
+{%- for eventsPg in eventsPages -%}
+  <li>{{eventsPg.day}}<br><a href="{{eventsPg.url}}">{{eventsPg.title}}</a></li>
+{%- endfor -%}
+</ul>
+
+{%- comment -%}
+# vi:syntax=liquid
+{%- endcomment -%}
