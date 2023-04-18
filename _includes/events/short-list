@@ -20,11 +20,11 @@ sorted correctly, and to generate the year headers consistently.
   {%- for eventsPg in eventsPages -%}
       <table>
         <tr>
-          <th>
+          <th class="col1">
           <img src="{{eventsPg.image}}" alt="{{eventsPg.image-description}}">
           </th>
 
-          <th>
+          <th class="col2">
           <a href="{{eventsPg.url}}">{{eventsPg.title}}</a><br><h6>{{eventsPg.day}} at {{eventsPg.time}}</h6>
           </th>
         </tr>

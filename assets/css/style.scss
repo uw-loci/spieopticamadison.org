@@ -32,7 +32,7 @@ short-list {
   }
 
   table, th, td {
-    th {
-    }
+    th.col1 { width: 2em;}
+    th.col2 { width: 10em;}
   }
 }
