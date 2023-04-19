@@ -18,17 +18,72 @@ Please forward any questions, comments, suggestions to  [spie.optica.uw@gmail.co
  {% include events/short-list %}
 
 <hr>
-## Organizers
-##### 2022 I2K Organizing/Scientific Committee:
+## Resources
+
+### Optics at UW
+If you think we are missing some SPIE-related campus resources from this page, please contact us via spie.optica.uw at gmail dot com.
+
+**Optical Instrumentation Researchers at the UW-Madison**
+
+ -   Matt Bershady, Professor Astronomy, astronomical instrumentation, spectroscopy
+ -    Dan Botez, Professor Electrical and Computer Engineering, fabrication of photonic devices
+ -    Weibo Cai, Asst. Professor Medical Physics and Radiology, multimodality optical imaging
+ -    Paul Campagnola, Assoc. Professor Biomedical Engineering and Medical Physics, nonlinear optics
+ -    Sylvia Cavagnero, Assoc. Professor of Chemistry, fluorescence
+ -    Fleming Crim, Professor Chemistry, UV-VIS-IR
+ -    Daniel Denhartog, senior scientist Physics, high energy lasers
+ -    Kevin Eliceiri, Director, Laboratory for Optical and Computational Instrumentation, nonlinear optics and optic image analysis
+ -    Jaal Ghandi, Professor Mechanical Engineering, visible and ultraviolet pulsed lasers
+ -    Hongrui Jiang, Assoc. Professor Electrical and Computer Engineering, micro-optics
+ -    Frank Keutsch, Asst. Professor, Chemistry, ultraviolet fiber laser
+ -    Jim Lawler, Professor Physics, ultraviolet spectroscopic instrumentation
+ -    Jack Ma, Assoc. Professor Electrical and Computer Engineering, silicon nanophotonics
+ -    Rob Marsland, lecturer Electrical and Computer Engineering, high-speed photoreceivers
+ -    Luke Mawst, Professor Electrical and Computer Engineering, fabrication of photonic devices
+ -    Leon McCaughan, Professor Electrical and Computer Engineering THz generation from near-IR
+ -    Ed Mierkiewicz, Assoc. Scientist Astronomy, interference spectroscopy
+ -    Marshall Onellion, Professor Physics, Ultrafast Optics
+ -    Fred Roesler, Professor Emeritus Physics, optical remote sensing, interference spectroscopy
+ -    Dave Rothamer, Asst. Professor Mechanical Engineering, visible and ultraviolet pulsed lasers
+ -    Mark Saffman, Professor Physics, quantum optics, nonlinear optics
+ -    Scott Sanders, Assoc. Professor Mechanical Engineering, near-infrared absorption spectroscopy
+ -    David Schwartz, Professor Chemistry and Genetics, fluorescence instrumentation for optical mapping
+ -    Andy Sheinis, Assistant Professor Astronomy, Astronomic instrumentation
+ -    Thad Walker, Professor Physics, Optical Traps
+ -    Jim Weisshaar, Professor Chemistry, quantitative microscopy
+ -    Marsha Wolf, Asst. Scientist Astronomy, astronomical instrumentation, spectroscopy
+ -    John Wright, Professor Chemistry, ultrafast lasers
+ -    Deniz Yavuz, Asst. Professor Physics, quantum, nonlinear, and ultrafast optics
+ -    Martin Zanni, Assoc. Professor Chemistry, ultrafast lasers
+ -    Zongfu Yu, Assoc. Professor Electrical and Computer Engineering, visual perception, sustainability and energy
+ -    Mikhail Kats, Assoc. Professor Electrical and Computer Engineering, nanoscale optical structure, thermal emission, thin film optics
+
+<hr>
+
+<h2> Optics Classes</h2>
+A list of optics and imaging related classes on campus. Please contact us if you know some classes that should be here but are not.
+
+- Physics 325
+- Physics 625
+- BME 530
+- ECE 219
+- ECE 313
+- ECE 434
+- ECE 536
+- ECE 741
+- ECE 742
 
 
+## Chapter Bylaws
+We have adopted the SPIE/Optica's standard bylaws; by participating in this student organization you agree to abide by these:
 
-## Code of Conduct
-We have adopted the Chan Zuckerberg Initiative’s  <a href="https://chanzuckerberg.com/ethics-policies/community-participation-guidelines/">Community Participation Guidelines</a>; by participating in this conference you agree to abide by these. If you need to contact the organizers to discuss a violation of these guidelines, please reach out to [eliceiri@wisc.edu](mailto:eliceiri@wisc.edu) or [i2kconference@gmail.com](mailto:i2kconference@gmail.com)
+[SPIE Bylaws](https://spie.org/about-spie/the-society/spie-bylaws?SSO=1)
+
+[Optica Bylaws](https://www.optica.org//en-us/get_involved/local_section/start_a_section/by_laws/)
 
 <hr>
 ## Connect
-Join the <a href="https://forum.image.sc/">image.sc forum!</a>
+Follow us on [Twitter](https://twitter.com/spieoptica_uwm?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Escreen-name%3Aspieoptica_uwm%7Ctwcon%5Es2)
 <br>
 <br>
-Questions about I2K? Please contact us at: [i2kconference@gmail.com](mailto:i2kconference@gmail.com)
+Questions about our chapter? Please contact us at: [spie.optica.uw@gmail.com](mailto:spie.optica.uw@gmail.com)
