@@ -16,7 +16,7 @@ sorted correctly, and to generate the year headers consistently.
 <ul>
 {% assign headers = "" | split: ',' %}
 {%- for eventsPg in eventsPages -%}
-  {% capture year %} {{ eventsPg.title | slice: 0, 4 }} {% endcapture %}
+  {% capture year %} {{ eventsPg.date | slice: 0, 4 }} {% endcapture %}
   {% unless headers contains year %}
     {% assign headers = headers | push: year %}
     <h2>{{ year }}</h2>
