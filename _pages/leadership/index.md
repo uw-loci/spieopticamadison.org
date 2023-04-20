@@ -1,0 +1,4 @@
+---
+title: Leadership
+---
+{% include leadership %}
