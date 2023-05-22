@@ -13,15 +13,19 @@ sorted correctly, and to generate the year headers consistently.
   | where_exp:"p", "p.url contains '/events/'"
   | where_exp:"p", "p.url != '/events/index'" -%}
 
+
 <ul>
 {% assign headers = "" | split: ',' %}
 {%- for eventsPg in eventsPages -%}
+
+  {% capture month-day %} {{ eventsPg.date | slice: 5, 6 }} {% endcapture %}
   {% capture year %} {{ eventsPg.date | slice: 0, 4 }} {% endcapture %}
   {% unless headers contains year %}
     {% assign headers = headers | push: year %}
     <h2>{{ year }}</h2>
+
   {% endunless %}
-  <li><a href="{{eventsPg.url}}">{{eventsPg.title}}</a></li>
+  <li><b>{{ month-day }}</b><a href="{{eventsPg.url}}">{{eventsPg.title}}</a></li>
 {%- endfor -%}
 </ul>
 
