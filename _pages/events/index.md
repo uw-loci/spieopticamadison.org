@@ -12,10 +12,7 @@ title: Events
 }
 </style>
 
-This page shows an event history the UW-Madison Chapter of SPIE/Optica.
+This page shows the UW-Madison Chapter of SPIE/Optica's event history.
 
 
-<div class="news-grid" >
    {% include events/list %}
-   <a class="twitter-timeline" href="https://twitter.com/FijiSc?ref_src=twsrc%5Etfw">Tweets by FijiSc</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>

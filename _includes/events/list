@@ -18,14 +18,17 @@ sorted correctly, and to generate the year headers consistently.
 {% assign headers = "" | split: ',' %}
 {%- for eventsPg in eventsPages -%}
 
-  {% capture month-day %} {{ eventsPg.date | slice: 5, 6 }} {% endcapture %}
+  {% capture month %} {{ eventsPg.date | date: "%B" }} {% endcapture %}
   {% capture year %} {{ eventsPg.date | slice: 0, 4 }} {% endcapture %}
   {% unless headers contains year %}
     {% assign headers = headers | push: year %}
-    <h2>{{ year }}</h2>
-
+    <h2 style="margin-left: 0px">{{ year }}</h2>
+    {% endunless %}
+    {% unless headers contains month %}
+      {% assign headers = headers | push: month %}
+        <h4 style="text-align:left; margin-left: 10px">{{ month }}</h4>
   {% endunless %}
-  <li><b>{{ month-day }}</b><a href="{{eventsPg.url}}">{{eventsPg.title}}</a></li>
+  <li style="margin-left: 30px"><b>{{ month-day }}</b><a href="{{eventsPg.url}}">{{eventsPg.title}}</a></li>
 {%- endfor -%}
 </ul>
 
