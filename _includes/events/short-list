@@ -21,7 +21,7 @@ sorted correctly, and to generate the year headers consistently.
       <table>
         <tr>
           <th class="col1">
-          <img src="{{eventsPg.image}}" alt="{{eventsPg.image-description}}">
+          <img src="/assets/images/events/{{eventsPg.image}}" alt="{{eventsPg.image-description}}">
           </th>
 
           <th class="col2">

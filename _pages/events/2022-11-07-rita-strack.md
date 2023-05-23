@@ -2,7 +2,7 @@
 title: Rita Strack – Editorial jobs and meeting the students
 day: November 7, 2022
 time: 3 PM
-image: /assets/images/events/rita-strack.png
+image: rita-strack.png
 image-description: picture of rita strack
 ---
 ![{{image-description}}]({{page.image}})
