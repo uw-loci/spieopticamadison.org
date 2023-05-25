@@ -317,8 +317,8 @@ header {
   }
 
   .downloads {
-    position:fixed;
-    margin-left:-325px;
+    position:relative;
+    float:left;
   }
 
     span {
