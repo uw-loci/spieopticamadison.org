@@ -317,9 +317,8 @@ header {
   }
 
   .downloads {
-    position:relative;
-    float:left;
-  }
+    position:sticky;
+    margin-left:100px;
 
     span {
       float:left;
@@ -579,7 +578,8 @@ footer {
     top: 80px;
 
     .downloads {
-        margin-right: 5px;
+        position:sticky;
+        margin-left:0px;
       }
 
     .fork {
