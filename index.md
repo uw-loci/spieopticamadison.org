@@ -71,7 +71,7 @@ A list of optics and imaging related classes on campus. Please contact us if you
 - ECE 741
 - ECE 742
 
-
+<hr>
 ## Chapter Bylaws
 We have adopted the SPIE/Optica's standard bylaws; by participating in this student organization you agree to abide by these:
 
