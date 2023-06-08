@@ -53,8 +53,8 @@ title: YYYY-MM-DD my news listing
 
 # Creating a leadership page
 Currently, SPIE has 5 officers and a faculty advisor. These listings will need to be updated as members of the executive committee come and go. To swithc out a member:
-1) Delete/remove the outdated officer listing
-2) Place the image file for the new officer in `assets/images/leadership`
+1) Delete/remove the outdated officer page in `/_pages/leadership/`
+2) Place the head shot image of the new officer in `assets/images/leadership`
 3) Create a new page in `/_pages/leadership` in format `lastname.md`
 4) Set your frontmatter. Frontmatter is a list of varibles set at the start of the page. For the events listing, you MUST set the following frontmatter:
             - title: Full name of the new member/officer, can include whitespace
@@ -63,7 +63,7 @@ Currently, SPIE has 5 officers and a faculty advisor. These listings will need t
             - image-description: text description of your image, this is an accessbility feature
             - order: a numerical value, controls the order of the leadership listing 1 being first, 6 being last
 
-Feel free to copy/paste the code snippet below and fill in content for your new event. Frontmatter must be sandwiched between ```---```.
+Feel free to copy/paste the code snippet below and fill in content for your new leadership page. Frontmatter must be sandwiched between ```---```.
 ```
 ---
 title: Firstname Lastname
