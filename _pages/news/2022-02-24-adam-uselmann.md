@@ -1,5 +1,5 @@
 ---
-title: 2022-02-24 - Industry Talk: Adam Uselmann from Onlume Surgical Tuesday 1st March, 2022
+title: 2022-02-24 - Industry Talk Adam Uselmann from Onlume Surgical Tuesday 1st March 2022
 ---
 
 Hello everyone,
