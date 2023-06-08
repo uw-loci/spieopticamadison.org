@@ -318,7 +318,7 @@ header {
 
   .downloads {
     position:sticky;
-    margin-left:100px;
+    margin-left:32px;
 
     span {
       float:left;
@@ -476,8 +476,9 @@ footer {
     width: 100%;
 
     .downloads {
-        margin-right: 250px;
-      }
+      position:fixed;
+      margin-left: 250px;
+    }
 
     .fork {
     }
@@ -516,7 +517,8 @@ footer {
     width: 100%;
 
     .downloads {
-        margin-right: 150px;
+      position:fixed;
+      margin-left: 150px;
       }
 
     .fork {
@@ -578,16 +580,34 @@ footer {
     top: 80px;
 
     .downloads {
-        position:sticky;
-        margin-left:0px;
+      position:fixed;
+      margin-left: 50px;
       }
 
-    .fork {
-        float: left;
-        display: inline-block;
-        margin-left: 0px;
-        position:fixed;
-        left:20px;
+    .button2 {
+        border: 1px solid #C41E3A;
+        background: linear-gradient(#000, #222);
+        border-radius: 2px;
+        border-color: #C41E3A;
+        box-shadow: inset 0px 1px 0px rgba(255,255,255,.4), 0px 1px 1px rgba(0,0,0,.1);
+        background-color: #C41E3A;
+        box-shadow: 0px 0px 1px 1px #C41E3A;
+        margin-left: 5px;
+        padding: 10px 12px;
+        margin-top: 6px;
+        line-height:14px;
+        font-size:14px;
+        color:#eee;
+        font-weight: bold;
+        display:inline-block;
+        text-align:center;
+        margin-right: 0px;
+
+        &:hover {
+            background: linear-gradient(#0000, #C41E3A);
+            background-color: #C41E3A;
+            color: #eee
+          }
         }
   }
 
