@@ -1,0 +1,9 @@
+---
+title: Announcing 2023 Officer Elections
+day: August 07, 2023
+time:  8 AM
+image: spie-logo.png
+image-description: SPIE/OPTICA Logo
+---
+
+We will be holding digital officers elections on August 7, 2023. Come back soon for more info!
