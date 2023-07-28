@@ -33,6 +33,7 @@ If you think we are missing some SPIE-related campus resources from this page, p
  -    Kevin Eliceiri, Director, Laboratory for Optical and Computational Instrumentation, nonlinear optics and optic image analysis
  -    Jaal Ghandi, Professor Mechanical Engineering, visible and ultraviolet pulsed lasers
  -    Hongrui Jiang, Assoc. Professor Electrical and Computer Engineering, micro-optics
+ -    Mikhail Kats, Assoc. Professor Electrical and Computer Engineering, nanoscale optical structure, thermal emission, thin film optics
  -    Frank Keutsch, Asst. Professor, Chemistry, ultraviolet fiber laser
  -    Jim Lawler, Professor Physics, ultraviolet spectroscopic instrumentation
  -    Jack Ma, Assoc. Professor Electrical and Computer Engineering, silicon nanophotonics
@@ -53,8 +54,9 @@ If you think we are missing some SPIE-related campus resources from this page, p
  -    John Wright, Professor Chemistry, ultrafast lasers
  -    Deniz Yavuz, Asst. Professor Physics, quantum, nonlinear, and ultrafast optics
  -    Martin Zanni, Assoc. Professor Chemistry, ultrafast lasers
+ -    Filiz Yesilkoy, Assoc. Professor, Biomedical Engineering, optical biochemical nanosensors, molecular identification and imaging systems
  -    Zongfu Yu, Assoc. Professor Electrical and Computer Engineering, visual perception, sustainability and energy
- -    Mikhail Kats, Assoc. Professor Electrical and Computer Engineering, nanoscale optical structure, thermal emission, thin film optics
+
 
 <hr>
 
