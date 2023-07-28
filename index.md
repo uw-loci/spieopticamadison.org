@@ -63,15 +63,26 @@ If you think we are missing some SPIE-related campus resources from this page, p
 <h2> Optics Classes</h2>
 A list of optics and imaging related classes on campus. Please contact us if you know some classes that should be here but are not.
 
-- [Physics 325](https://www.physics.wisc.edu/courses/teaching-history/325)
-- [Physics 625](https://www.physics.wisc.edu/courses/teaching-history/625)
-- [BME 530](https://guide.wisc.edu/courses/b_m_e/)
-- [ECE 219](https://guide.wisc.edu/courses/e_c_e/)
-- [ECE 313](https://guide.wisc.edu/courses/e_c_e/)
-- [ECE 434](https://guide.wisc.edu/courses/e_c_e/)
-- [ECE 536](https://guide.wisc.edu/courses/e_c_e/)
-- [ECE 741](https://guide.wisc.edu/courses/e_c_e/)
-- [ECE 742](https://guide.wisc.edu/courses/e_c_e/)
+<h3> Optics and imaging courses being offered in the upcoming **Fall** Semester of 2023 </h3>
+
+- [Physics 625](https://www.physics.wisc.edu/courses/fall2023/625) - Applied Optics
+- [ECE 219](https://guide.wisc.edu/courses/e_c_e/) - Analytical Methods for Electromagnetics Engineering
+- [ECE 313](https://guide.wisc.edu/courses/e_c_e/) - Optoelectronics Lab
+- [ECE 536](https://guide.wisc.edu/courses/e_c_e/) - Integrated Optics and Optoelectronics
+
+<h3> Full list of optics and imaging Courses </h3>
+
+- [Physics 325](https://www.physics.wisc.edu/courses/teaching-history/325) - Optics
+- [Physics 625](https://www.physics.wisc.edu/courses/teaching-history/625) - Applied Optics
+- [BME 530](https://guide.wisc.edu/courses/b_m_e/) - Medical Imaging Systems
+- [ECE 219](https://guide.wisc.edu/courses/e_c_e/) - Analytical Methods for Electromagnetics Engineering
+- [ECE 313](https://guide.wisc.edu/courses/e_c_e/) - Optoelectronics Lab
+- [ECE 420](https://guide.wisc.edu/courses/e_c_e/) - Electromagnetic Wave Transission
+- [ECE 434](https://guide.wisc.edu/courses/e_c_e/) - Photonics
+- [ECE 536](https://guide.wisc.edu/courses/e_c_e/) - Integrated Optics and Optoelectronics
+- [ECE 741](https://guide.wisc.edu/courses/e_c_e/) - Semiconductor Diode Lasers and Other Optoelectronic Devices
+- [ECE 742](https://guide.wisc.edu/courses/e_c_e/) - Computational Methods in Electromagnetics
+- [ECE 747](https://guide.wisc.edu/courses/e_c_e/) - Nanophotonics
 
 <hr>
 ## Chapter Bylaws
