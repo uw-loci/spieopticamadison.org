@@ -63,15 +63,15 @@ If you think we are missing some SPIE-related campus resources from this page, p
 <h2> Optics Classes</h2>
 A list of optics and imaging related classes on campus. Please contact us if you know some classes that should be here but are not.
 
-- Physics 325
-- Physics 625
-- BME 530
-- ECE 219
-- ECE 313
-- ECE 434
-- ECE 536
-- ECE 741
-- ECE 742
+- [Physics 325](https://www.physics.wisc.edu/courses/teaching-history/325)
+- [Physics 625](https://www.physics.wisc.edu/courses/teaching-history/625)
+- [BME 530](https://guide.wisc.edu/courses/b_m_e/)
+- [ECE 219](https://guide.wisc.edu/courses/e_c_e/)
+- [ECE 313](https://guide.wisc.edu/courses/e_c_e/)
+- [ECE 434](https://guide.wisc.edu/courses/e_c_e/)
+- [ECE 536](https://guide.wisc.edu/courses/e_c_e/)
+- [ECE 741](https://guide.wisc.edu/courses/e_c_e/)
+- [ECE 742](https://guide.wisc.edu/courses/e_c_e/)
 
 <hr>
 ## Chapter Bylaws
