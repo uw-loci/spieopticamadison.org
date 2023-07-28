@@ -70,7 +70,7 @@ A list of optics and imaging related classes on campus. Please contact us if you
 - [ECE 313](https://guide.wisc.edu/courses/e_c_e/) - Optoelectronics Lab
 - [ECE 536](https://guide.wisc.edu/courses/e_c_e/) - Integrated Optics and Optoelectronics
 
-<h3> Full list of optics and imaging Courses </h3>
+<h3> Full list of optics and imaging courses at UW Madison </h3>
 
 - [Physics 325](https://www.physics.wisc.edu/courses/teaching-history/325) - Optics
 - [Physics 625](https://www.physics.wisc.edu/courses/teaching-history/625) - Applied Optics
