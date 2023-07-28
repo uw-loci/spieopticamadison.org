@@ -10,7 +10,6 @@ sorted correctly, and to generate the year headers consistently.
 
 {%- assign eventsPages = site.pages
   | sort:"date"
-  | reverse
   | where_exp:"p", "p.url contains '/events/'"
   | where_exp:"p", "p.url != '/events/index'"
   | slice: 0, 3
