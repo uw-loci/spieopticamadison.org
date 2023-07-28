@@ -2,7 +2,7 @@
 title: Announcing 2023 Officer Elections
 day: August 07, 2023
 time:  8 AM
-image: spie-logo.png
+image: spieoptica.jpg
 image-description: SPIE/OPTICA Logo
 ---
 
