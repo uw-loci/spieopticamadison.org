@@ -3,6 +3,28 @@
 
 @import 'jekyll-theme-leap-day';
 
+#banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.downloads {
+  display: flex;
+}
+
+.downloads ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+}
+
+.downloads ul li {
+  margin: 0 10px;
+}
+
+
 twitter {
   width: 230px;
   position: fixed;
