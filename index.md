@@ -63,7 +63,7 @@ If you think we are missing some SPIE-related campus resources from this page, p
 <h2> Optics Classes</h2>
 A list of optics and imaging related classes on campus. Please contact us if you know some classes that should be here but are not.
 
-<h3> Optics and imaging courses being offered in the upcoming **Fall** Semester of 2023 </h3>
+<h3> Optics and imaging courses being offered in the upcoming Fall Semester of 2023 </h3>
 
 - [Physics 625](https://www.physics.wisc.edu/courses/fall2023/625) - Applied Optics
 - [ECE 219](https://guide.wisc.edu/courses/e_c_e/) - Analytical Methods for Electromagnetics Engineering
