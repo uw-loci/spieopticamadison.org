@@ -1,7 +1,7 @@
 ---
-title: Mike Nelson
+title: Helen Wilson
 role: Secretary
-image: nelson.png
-image-description: Mike Nelson
+image: wilson.png
+image-description: Helen Wilson
 order: 4
 ---
