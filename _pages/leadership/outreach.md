@@ -1,7 +1,7 @@
 ---
-title: Emily Shelton
+title: Kasia Wiech
 role: Outreach Director
-image: shelton.jpg
-image-description: Emily Shelton
+image: weich.png
+image-description: Kasia Wiech
 order: 3
 ---
