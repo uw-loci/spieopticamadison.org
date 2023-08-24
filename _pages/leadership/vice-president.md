@@ -1,7 +1,7 @@
 ---
-title: Aidana Beisenova
+title: Samir Rosas
 role: Vice-President
-image: beisenova.jpg
-image-description: Aidana Beisenova
+image: rosas.png
+image-description: Samir Rosas
 order: 2
 ---
