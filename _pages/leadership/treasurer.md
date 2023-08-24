@@ -1,7 +1,7 @@
 ---
-title: Helen M Wilson
+title: Aidana Beisenova
 role: Treasurer
-image: wilson.png
-image-description: Helen M Wilson
+image: beisenova.jpg
+image-description: Aidana Beisenova
 order: 5
 ---
