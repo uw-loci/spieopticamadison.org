@@ -1,5 +1,5 @@
 ---
-title: Filiz Yesilkoy
+title: Filiz Yesilkoy AMA
 day: October 24, 2023
 time:  12 PM
 image: filizama.png
