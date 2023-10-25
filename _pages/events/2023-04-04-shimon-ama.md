@@ -1,5 +1,5 @@
 ---
-title: Shimon Kolkowitz
+title: Shimon Kolkowitz AMA
 day: April 4, 2023
 time:  12 PM
 image: shimon-kolkowitz-ama.jpg
