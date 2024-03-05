@@ -2,7 +2,7 @@
 title: Spring 2024 Kickoff Meeting
 day: Feburary 2, 2024
 time: 5 PM
-image: kick_off_spring24.jpeg
+image: kick_off_spring24.jpg
 image-description: picture of kickoff meeting
 ---
 ![{{image-description}}]({{page.image}})
