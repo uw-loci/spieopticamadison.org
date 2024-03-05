@@ -12,7 +12,7 @@ Our group’s membership is comprised of students and faculty from Astronomy, Bi
 Please forward any questions, comments, suggestions to  [spie.optica.uw@gmail.com](mailto:spie.optica.uw@gmail.com).
 
 <hr>
-## Upcoming Events
+## Events
  {% include events/short-list %}
 
 <hr>
