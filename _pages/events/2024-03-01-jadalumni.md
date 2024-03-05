@@ -2,7 +2,7 @@
 title: Jad Salman Alumni Talk
 day: March 1, 2024
 time: 5 PM
-image: jadalumni.jpg
+image: jadalumni.jpeg
 image-description: picture of Jad Salman
 ---
 ![{{image-description}}]({{page.image}})
